@@ -1,4 +1,7 @@
 # FREELANCR README
+
+## LINK TO HOSTED COMPLETE APP:
+<a href="https://scrumptious-freelancr-app.herokuapp.com/">HERE</a>
  
 ## Pitch
  FREELANCR is the hottest new Freelancing Platform that will blow Fiverr out of the water. 
