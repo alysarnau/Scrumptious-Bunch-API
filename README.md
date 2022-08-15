@@ -8,10 +8,11 @@ This platform will allow Freelancers to create profiles and list their available
  
 ## Team Roles
 Alys - Team Manager
-Hayden - Hype Manager
+Hayden - Front End
 Jacob - Back End SEM
-Sophia - Front End SEM
 
+## LINK TO CLIENT REPO
+<a href='https://github.com/alysvolatile/Scumptious_Bunch_Client'>Client Facing App is found here!</a>
 
 ## STRETCH GOALS…
 * As a user, I want to be able to search ALL services through a search bar
